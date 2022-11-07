@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagebuckettest",
+  "policyUUID": "33936179",
+  "bucketName": "amplifyreactgraphql8b9004acf99c48f7b535f0ca2244",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
